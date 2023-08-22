@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a377809e8ee634aa0558a5c508e6b5, type: 3}
+  m_Name: HairsOutFitContainer
+  m_EditorClassIdentifier: 
+  OutFitList:
+  - {fileID: 11400000, guid: 58ebb2934f11dc64f9bac820194d2899, type: 2}
+  - {fileID: 11400000, guid: 43cc6b05cde81c343af1fbb4c58bc6c9, type: 2}
+  - {fileID: 11400000, guid: 150c41188f3965847b06ca72b9946c2d, type: 2}
+  - {fileID: 11400000, guid: f81e237a7d4c4944188780cf65a26589, type: 2}
+  - {fileID: 11400000, guid: 09b87f866b1038149a9d0a03ca5c0841, type: 2}
+  - {fileID: 11400000, guid: cc00f9c6dc2d1674bb679f42f238f3f8, type: 2}

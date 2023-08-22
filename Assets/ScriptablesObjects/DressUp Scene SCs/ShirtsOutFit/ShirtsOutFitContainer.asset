@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a377809e8ee634aa0558a5c508e6b5, type: 3}
+  m_Name: ShirtsOutFitContainer
+  m_EditorClassIdentifier: 
+  OutFitList:
+  - {fileID: 11400000, guid: aae67d0f4c792ee4f8f12b6e74e6a856, type: 2}
+  - {fileID: 11400000, guid: 67ffa7963365ad04498d0be6c48ee300, type: 2}
+  - {fileID: 11400000, guid: 12a1f027a14947b429d71453b5de263d, type: 2}
+  - {fileID: 11400000, guid: ba460a17d7b41f648b216db656e44541, type: 2}
+  - {fileID: 11400000, guid: a71a77829c196364e976d7ed27aebbfe, type: 2}
+  - {fileID: 11400000, guid: a6f0ff0f72dae454e93598d36683638a, type: 2}

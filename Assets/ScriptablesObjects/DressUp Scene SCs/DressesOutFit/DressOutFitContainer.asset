@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a377809e8ee634aa0558a5c508e6b5, type: 3}
+  m_Name: DressOutFitContainer
+  m_EditorClassIdentifier: 
+  OutFitList:
+  - {fileID: 11400000, guid: 037d46d498639714ea59b4183c3f4f16, type: 2}
+  - {fileID: 11400000, guid: 9142718b0b305e94a9bf6b8e29a71141, type: 2}
+  - {fileID: 11400000, guid: 345d0030ed49e7d48b576c384cbc28b4, type: 2}
+  - {fileID: 11400000, guid: 12ad5852b5644984a8ef17d1f43e8e83, type: 2}
+  - {fileID: 11400000, guid: 936efe2e94ca9904297be9f44f3ebc98, type: 2}
+  - {fileID: 11400000, guid: 7fb9fe73b2ae82c408ca64ca23b7d888, type: 2}
+  - {fileID: 11400000, guid: 628eaaf241f42fe4e8ae57177997d491, type: 2}
+  - {fileID: 11400000, guid: 8198398b23855b3459970c3c1119461e, type: 2}
+  - {fileID: 11400000, guid: a54be1db5ddcdf740b1a137e257d3e51, type: 2}
+  - {fileID: 11400000, guid: 226756d17a1856549a4c2c6727d03b54, type: 2}
+  - {fileID: 11400000, guid: 880ae8c1fa611cf469695bf1a98b1ee2, type: 2}
+  - {fileID: 11400000, guid: 9a90e0a9f8378284eae3f69e470e4a72, type: 2}

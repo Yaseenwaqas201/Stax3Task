@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72497302c41b3b64dac55441f5bce852, type: 3}
+  m_Name: Level 8
+  m_EditorClassIdentifier: 
+  levelCompleted: 0
+  starsAchieved: 2
+  levelLocked: 0
+  levelIcon: {fileID: 21300000, guid: db5ba49e748a7a74895ea39a00c0336f, type: 3}
+  LevelBG: {fileID: 21300000, guid: db5ba49e748a7a74895ea39a00c0336f, type: 3}
+  levelSoundName: choese waht you going today
+  levelStartDelay: 0
+  levelPhrases:
+  - 
+  dressUpLevelTarget:
+  - isSpecificOutFit: 1
+    targetOutFitName: DressOutFit11
+    isSpecificColor: 0
+    targetColor: {r: 1, g: 1, b: 1, a: 1}
+    outfitCat: 0
+    isTargetCompleted: 0
+    targetIcon: {fileID: 7780568910483399174, guid: ed671af2ff437cd4da56fc867773c969, type: 3}
+    targetColorIcon: {fileID: 0}
+  - isSpecificOutFit: 0
+    targetOutFitName: HairOutFit5
+    isSpecificColor: 0
+    targetColor: {r: 1, g: 1, b: 1, a: 1}
+    outfitCat: 1
+    isTargetCompleted: 1
+    targetIcon: {fileID: -1272625682592179845, guid: ed671af2ff437cd4da56fc867773c969, type: 3}
+    targetColorIcon: {fileID: 0}
+  - isSpecificOutFit: 1
+    targetOutFitName: ShoesOutFit3
+    isSpecificColor: 1
+    targetColor: {r: 0.227451, g: 0.23137257, b: 0.2627451, a: 1}
+    outfitCat: 2
+    isTargetCompleted: 1
+    targetIcon: {fileID: -6788822701131592064, guid: ed671af2ff437cd4da56fc867773c969, type: 3}
+    targetColorIcon: {fileID: 0}

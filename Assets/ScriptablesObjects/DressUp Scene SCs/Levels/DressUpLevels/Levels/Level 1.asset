@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72497302c41b3b64dac55441f5bce852, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  levelCompleted: 0
+  starsAchieved: 0
+  levelLocked: 0
+  levelIcon: {fileID: 21300000, guid: f279c93653626244dbd26458ac74d14a, type: 3}
+  LevelBG: {fileID: 21300000, guid: f279c93653626244dbd26458ac74d14a, type: 3}
+  levelSoundName: ph_choose_girl_5
+  levelStartDelay: 0
+  levelPhrases:
+  - 'Anaya '
+  - Lets
+  dressUpLevelTarget:
+  - isSpecificOutFit: 1
+    targetOutFitName: ShirtsOutFit3
+    isSpecificColor: 1
+    targetColor: {r: 1, g: 0.34509805, b: 0.75294125, a: 1}
+    outfitCat: 4
+    isTargetCompleted: 0
+    targetIcon: {fileID: 1939216837443481229, guid: ed671af2ff437cd4da56fc867773c969, type: 3}
+    targetColorIcon: {fileID: -8691486856935305109, guid: ed671af2ff437cd4da56fc867773c969, type: 3}
+  - isSpecificOutFit: 0
+    targetOutFitName: 
+    isSpecificColor: 0
+    targetColor: {r: 0, g: 0, b: 0, a: 0}
+    outfitCat: 2
+    isTargetCompleted: 0
+    targetIcon: {fileID: -8533962960574808602, guid: a52f12300ff87eb4ba6d2d60d2587863, type: 3}
+    targetColorIcon: {fileID: 0}
+  - isSpecificOutFit: 0
+    targetOutFitName: 
+    isSpecificColor: 0
+    targetColor: {r: 0, g: 0, b: 0, a: 0}
+    outfitCat: 3
+    isTargetCompleted: 0
+    targetIcon: {fileID: -8308799573389957035, guid: a52f12300ff87eb4ba6d2d60d2587863, type: 3}
+    targetColorIcon: {fileID: 0}

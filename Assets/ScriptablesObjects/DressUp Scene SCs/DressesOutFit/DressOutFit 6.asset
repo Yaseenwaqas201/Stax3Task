@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3d81a307e514f547905e8bfd57a628b, type: 3}
+  m_Name: DressOutFit 6
+  m_EditorClassIdentifier: 
+  uniqueIdName: DressOutFit6
+  outFitIcon: {fileID: 5675102754775158290, guid: ed671af2ff437cd4da56fc867773c969, type: 3}
+  outFitColorIcon: {fileID: 5543795380616812634, guid: ed671af2ff437cd4da56fc867773c969, type: 3}
+  outFitOriginalImg: {fileID: 21300000, guid: 8c72ddbff567d634f8a10805367fca3b, type: 3}
+  outFitColorImg: {fileID: 21300000, guid: a32c29e8201122a45adfa22bb4be0354, type: 3}
+  priceOfOutFit: 0
+  outFitPoints: 0
+  outFitCat: 0
+  isUnlockOutFit: 1
+  outFitColor: {r: 0, g: 0, b: 0, a: 0}

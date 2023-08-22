@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72497302c41b3b64dac55441f5bce852, type: 3}
+  m_Name: Level 7
+  m_EditorClassIdentifier: 
+  levelCompleted: 0
+  starsAchieved: 3
+  levelLocked: 0
+  levelIcon: {fileID: 21300000, guid: f9c87c9321d28c94baa57dbb4cf56600, type: 3}
+  LevelBG: {fileID: 21300000, guid: f9c87c9321d28c94baa57dbb4cf56600, type: 3}
+  levelSoundName: vocation
+  levelStartDelay: 0
+  levelPhrases:
+  - 
+  dressUpLevelTarget:
+  - isSpecificOutFit: 1
+    targetOutFitName: DressOutFit10
+    isSpecificColor: 1
+    targetColor: {r: 0.93725497, g: 0.16078432, b: 0.16470589, a: 1}
+    outfitCat: 0
+    isTargetCompleted: 1
+    targetIcon: {fileID: 2945215100398088925, guid: ed671af2ff437cd4da56fc867773c969, type: 3}
+    targetColorIcon: {fileID: 0}
+  - isSpecificOutFit: 0
+    targetOutFitName: 
+    isSpecificColor: 0
+    targetColor: {r: 1, g: 1, b: 1, a: 1}
+    outfitCat: 1
+    isTargetCompleted: 1
+    targetIcon: {fileID: -8717975482313926904, guid: a52f12300ff87eb4ba6d2d60d2587863, type: 3}
+    targetColorIcon: {fileID: 0}
+  - isSpecificOutFit: 0
+    targetOutFitName: ShoesOutFit2
+    isSpecificColor: 0
+    targetColor: {r: 0.227451, g: 0.23137257, b: 0.2627451, a: 1}
+    outfitCat: 2
+    isTargetCompleted: 1
+    targetIcon: {fileID: -8533962960574808602, guid: a52f12300ff87eb4ba6d2d60d2587863, type: 3}
+    targetColorIcon: {fileID: 0}

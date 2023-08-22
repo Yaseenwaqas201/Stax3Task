@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Administrator\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Stax3Task.338748931.00" t="ExcludeRecursive" />
+    <e p="E:\Other Developer Projects\Stax3Task" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_Scripts" t="Include">
+          <e p="Data Saver" t="Include">
+            <e p="GameDataSaveHandler.cs" t="Include" />
+            <e p="OutFitSaver.cs" t="Include" />
+          </e>
+          <e p="DressUp GamePlay" t="Include">
+            <e p="DressUpUIManager.cs" t="Include" />
+            <e p="outFitSelector.cs" t="Include" />
+            <e p="PlayerOutFitsManager.cs" t="Include" />
+          </e>
+          <e p="EventHandler.cs" t="Include" />
+          <e p="GameConstantFD.cs" t="Include" />
+        </e>
+        <e p="Animations" t="Include">
+          <e p="CoinAnimation" t="Include" />
+        </e>
+        <e p="Fonts" t="Include" />
+        <e p="Particles" t="Include">
+          <e p="Materials" t="Include" />
+          <e p="Prefabs" t="Include">
+            <e p="2D" t="Include">
+              <e p="Fountain" t="Include" />
+            </e>
+          </e>
+          <e p="Textures" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Editor" t="Include">
+                <e p="Imgs" t="Include" />
+              </e>
+              <e p="Modules" t="Include">
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModuleEPOOutline.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="ScriptablesObjects" t="Include">
+          <e p="DressUp Scene SCs" t="Include">
+            <e p="DressesOutFit" t="Include" />
+            <e p="DressUpLevelSC.cs" t="Include" />
+            <e p="DressUpLevelsSC_Container.cs" t="Include" />
+            <e p="HairsOutFit" t="Include" />
+            <e p="Levels" t="Include">
+              <e p="DressUpLevels" t="Include">
+                <e p="Levels" t="Include" />
+              </e>
+            </e>
+            <e p="OutFitSC.cs" t="Include" />
+            <e p="OutFitSC_Container.cs" t="Include" />
+            <e p="PantsOutFit" t="Include" />
+            <e p="ShirtsOutFit" t="Include" />
+            <e p="ShoesOutFit" t="Include" />
+            <e p="WarmOutFits" t="Include" />
+          </e>
+          <e p="Level.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Exp" t="Include">
+            <e p="Accessories" t="Include" />
+            <e p="Backgrounds" t="Include" />
+            <e p="body" t="Include" />
+            <e p="clothes" t="Include" />
+            <e p="head" t="Include" />
+            <e p="Models" t="Include" />
+            <e p="Objects" t="Include" />
+            <e p="Pants" t="Include" />
+            <e p="Pets" t="Include" />
+            <e p="Shoes" t="Include" />
+            <e p="Weapons" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Stax3Task.sln" t="IncludeFlat" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

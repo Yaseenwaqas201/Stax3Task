@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a377809e8ee634aa0558a5c508e6b5, type: 3}
+  m_Name: PantsOutFitContainer
+  m_EditorClassIdentifier: 
+  OutFitList:
+  - {fileID: 11400000, guid: eb4c0b423a4becc4ca75b5d47ec9047a, type: 2}
+  - {fileID: 11400000, guid: 3918a7b6fe0faf44187ebd7fd13c8723, type: 2}
+  - {fileID: 11400000, guid: 1ad84b72f375a194cb56dbdc761209a9, type: 2}
+  - {fileID: 11400000, guid: be027a70ffa34bb4793e6df756c31858, type: 2}
+  - {fileID: 11400000, guid: fcaf931bff60f6a498b54ad92ff1e6fa, type: 2}

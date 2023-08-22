@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9a377809e8ee634aa0558a5c508e6b5, type: 3}
+  m_Name: ShoessOutFitContainer
+  m_EditorClassIdentifier: 
+  OutFitList:
+  - {fileID: 11400000, guid: d745be50168f2b841ba678f7bf142b64, type: 2}
+  - {fileID: 11400000, guid: 8dbea318656d3be46be25992eb32dafc, type: 2}
+  - {fileID: 11400000, guid: a165e69fc32a8854d9b00587aafb35f9, type: 2}
+  - {fileID: 11400000, guid: 6297fb713ebf465488f2bb0e664cebcf, type: 2}
+  - {fileID: 11400000, guid: 888babd90b1c4aa458a9a16daa9ff9a7, type: 2}
+  - {fileID: 11400000, guid: 6c83723ff1e671c4b93f649bf35b7d3d, type: 2}
